@@ -7,8 +7,8 @@
 
 // app.use(
 //   cors({
-//     origin: ["http://localhost:5177", "https://syntax-iq-ai.vercel.app"], // Allow specific frontend URLs
-//     credentials: true, // Allow cookies and credentials
+//     origin: "http://localhost:5177",
+//     credentials: true, 
 //   })
 // );
 
